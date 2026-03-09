@@ -19,7 +19,7 @@ matplotlib
 seaborn
 
 # Web Application
-streamlit
+streamlit>=1.32
 streamlit-option-menu
 streamlit-extras
 
